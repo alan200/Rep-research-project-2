@@ -1,7 +1,5 @@
 ---
 title: "Reproducible Research PA2"
-author: "BillSeliger"
-date: "Sunday, February 15, 2015"
 output: html_document
 ---
 
